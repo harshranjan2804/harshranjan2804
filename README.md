@@ -21,6 +21,6 @@ Aspiring software developer passionate about building impactful tech solutions.
 ## 📫 Connect
 - **Email:** hranjan3246@gmail.com
 - **GitHub:** [harshranjan2804](https://github.com/harshranjan2804)
-- **LinkedIn:** [Your LinkedIn URL]
+- **LinkedIn:** [www.linkedin.com/in/harsh-ranjan3246]
 
 *Open to collaboration and new opportunities!*
