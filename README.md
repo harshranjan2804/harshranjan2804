@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Harsh Ranjan! 👋
 
-<!--
-**harshranjan2804/harshranjan2804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring software developer passionate about building impactful tech solutions.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- **Languages:** C, C++, Java, Python, JavaScript
+- **Web:** Next.js, React, Tailwind CSS, Express.js, MongoDB
+- **Core:** DSA, OOPS, DBMS, OS
+- **Tools:** Git, VSCode
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Projects
+- **PixelMind:** AI-powered emotion detection platform (React, Flask, TensorFlow)
+- **easyStay:** Web app for flexible room rentals (Next.js, Appwrite, MariaDB)
+- **Pictora:** Image generation frontend (React, Tailwind CSS)
+- **Academic Alchemy:** Predictive analytics for student performance (IEEE NMTICON 2024)
+
+## 🏆 Achievements
+- IEEE conference publication
+- Open source contributor
+
+## 📫 Connect
+- **Email:** hranjan3246@gmail.com
+- **GitHub:** [harshranjan2804](https://github.com/harshranjan2804)
+- **LinkedIn:** [Your LinkedIn URL]
+
+*Open to collaboration and new opportunities!*
